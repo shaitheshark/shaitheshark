@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @shaitheshark
-- 👀 I’m interested in books and productiity apps
+- 👀 I’m interested in books and productivity apps
 - 🌱 I’m currently learning a lot of thing lmao
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have no idea what to do here
 
 <!---
 shaitheshark/shaitheshark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
